@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy --pathprefix=/amerike-template-eleventy-1ciber/"
+    "build": "npx @11ty/eleventy --pathprefix=/practica-12-1.0/"
   },
   "keywords": [],
   "author": "Jonathan MirCha <jonmircha@gmail.com>",
