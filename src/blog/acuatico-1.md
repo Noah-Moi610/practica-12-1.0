@@ -10,7 +10,7 @@ La historia del surf es difícil de rastrear puesto que hay varios testimonios d
 
 En los años siguientes el surf estaba a punto de extinguirse debido que antes lo veian con desden la actividad, sin embargo no fue despúes que una persona llevó esta actividad a su gran auje con una tabla de casi 4 metros de alto y convirtiendose en una leyenda del surf, su nombre, _Duke Kajanamoku_. Gracias a este hombre el surf resusitó y muchas personas más comenzaron a practicar este deporte. 
 
-![Duke](/amerike-template-eleventy-1ciber-main/src/static/img/surf-1.jpg)
+![Duke](https://tse4.explicit.bing.net/th?id=OIP.oO5kGTWU_myC0Kmk8WmwDwHaEK&pid=Api&P=0&h=180)
 
 En el siglo _XX_ se popularizó en las costas de Estados Unidos, Australia y  Partes de Europa, nomarmelte la actividad la practican personas de 20 a 30 años años de edad, a su vez también evolucionó la tabla de surf convirtiendola mas pequeña y menos pesada para las maniobras dinamicas a futuro, tambie se empezaron a crear maniobras como: :_ the pipe_ y otras más.
 
@@ -20,6 +20,6 @@ Actualmente se organizan eventos de torneos para ganarse lo que se llama la tabl
 
 No es gran cosa a grandes rasgos, solo se necesita una tabla de surf y un traje de neopreno (si en dado caso se surfear en aguas frías), lo que hace un reto es el equilibrio y la concdición física necesaria, poder encontrar el patrón de las olas, mantenerse frime al domar la ola y salir sin que el agua te aplaste.
 
-![Surf](/amerike-template-eleventy-1ciber-main/src/static/img/surf-2.jpg)
+![Surf](https://tse4.mm.bing.net/th?id=OIP.VrzRIWVhg9kE6EZVOE28twHaEk&pid=Api&P=0&h=180)
 
 [Home]({{ '/' | url }})

@@ -6,6 +6,8 @@ body {
 
 a {
   color: rgb(29, 138, 247);
+  font-family: 'Caveat', cursive;
+font-family: 'Pixelify Sans', sans-serif;
 }
 
 a:hover {

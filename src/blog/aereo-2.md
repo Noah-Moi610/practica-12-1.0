@@ -14,6 +14,6 @@ Es considersado deporte extremo no por la condicón física que se requiere, si 
 
 Dejando a un lado la información, es un deporte que como muchas otras aumenta los niveles de adrenalina, grandes emociones y muy buenos recuerdos de la actividad.
 
-![parapente](/amerike-template-eleventy-1ciber-main/src/static/img/parapente.jpg)
+![parapente](https://tse4.mm.bing.net/th?id=OIP.seRjXooG5F8suAA4L6dmxgHaFj&pid=Api&P=0&h=180)
 
 [Home]({{ '/' | url }})

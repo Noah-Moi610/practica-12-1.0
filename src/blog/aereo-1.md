@@ -33,6 +33,6 @@ Licensia _D_: Tener mínimo 500 saltos
 
 Como dije anteriormente, también es importante saber sobre el equipo que se usa en esta actividadn como: arnes, mochila, paracidas primario, paracaidas secundario (ermegencia),casco,gafas,guantes,altimetro,mandos,sistema automático. Yaa que al ser un deporte emocionante, también es un deporte de alto riesgo y tristemente mucha gente ha muerto al practicar este deporte.
 
-![paracaidismo](/amerike-template-eleventy-1ciber-main/src/static/img/paracaidas.jpg)
+![paracaidismo](https://tse3.mm.bing.net/th?id=OIP.DGPDPR6E2jhNv-VLqIMBWgHaDs&pid=Api&P=0&h=180)
 
 [Home]({{ '/' | url }})

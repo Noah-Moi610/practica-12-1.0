@@ -22,6 +22,6 @@ Con el tiempo se generaron mas variantes de la escalada y algunos mas desafiante
 - bulder
 - psicobloc
 
-![escalada](/amerike-template-eleventy-1ciber-main/src/static/img/escalada.jpg)
+![escalada](https://tse1.mm.bing.net/th?id=OIP.S6FuJWVkIcubhRIzsobQPgHaHa&pid=Api&P=0&h=180)
 
 [Home]({{ '/' | url }})

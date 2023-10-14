@@ -16,7 +16,7 @@ Como había dicho antes el montañismo es el deporte más antiguo, pero no fue h
 
 Es una disciplina que exige demasiado al cuerpo humano, condición física y un estado mental sereno e inquebrantable. Capacitación en conocimientos y uso de herramientas, sobrevivencia en la intemperie, poder cargar todo en una mochila de aproximadamente 20 kg o más y  ser autosuficiente, ya que estando a estas alturas tú vida dependerá de ello.
 
-![montañismo](/amerike-template-eleventy-1ciber-main/src/static/img/montañismo.jpg)
+![montañismo](https://tse3.mm.bing.net/th?id=OIP.ZOEU6ig9m-NyrIK4yfwFGwHaFj&pid=Api&P=0&h=180)
 
 Tristemente muchas personas lo ven como una actividad turística y no poseen de los conocimientos requertidos y  llegan a provocar su muerte u accidente a terceros. Es una noticia agridulce que el montañismo tuvo un incremento exponencial en que más personas lo practiquen, pero la mayoría no tiene la experiencia y capacitación necesaria.
 

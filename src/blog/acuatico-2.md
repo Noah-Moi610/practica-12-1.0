@@ -20,6 +20,6 @@ se realiza en aquellos ríos que tienen aguas bastante rápidas y turbulentas es
 
 Ademas de eso se rquiere capacitación, equipo, herramientas, conocimientos como: señas, tecnicas, métodos para salvar la vida de alguien o tuya
 
-![rafting](/amerike-template-eleventy-1ciber-main/src/static/img/rafting.jpg)
+![rafting](https://tse1.mm.bing.net/th?id=OIP.PY2yxSqAiTE9vNxZgz0c2AHaEA&pid=Api&P=0&h=180)
 
 [Home]({{ '/' | url }})

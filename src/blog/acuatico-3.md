@@ -26,7 +26,7 @@ Consiste en ingresar al agua y sumergir la totalidad del cuerpo, por lo que, en 
 
 Dejando de un lado las posibles tragedias,el buceo es una actividad recretativa y emocionante para tener una gran aventura.
 
-![buceo](/amerike-template-eleventy-1ciber-main/src/static/img/buceo.jpg)
+![buceo](https://tse4.mm.bing.net/th?id=OIP.4NxhVMeIyc0jzYyWrKZ6RgHaEw&pid=Api&P=0&h=180)
 
 Posdata: Para mi esto si da miedo
 

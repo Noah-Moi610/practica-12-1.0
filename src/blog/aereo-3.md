@@ -17,6 +17,6 @@ Se necesitan de dos elementos fundamentales: un traje aéreo y un paracaídas.
 
 Consiste en disminuir el desplazamiento vertical y favorecer el horizontal, mientras que el paracaídas se utiliza para acercarse a tierra al final del salto. Hay muchos diseños de trajes aéreos, pero todos respetan una serie de principios. El traje aéreo es de nailon (o alguna otra tela resistente) y tiene tres alas: dos que conectan los brazos con el torso, y una tercera que conecta las piernas entre sí. A fin de cuentas, el traje funciona porque convierte al piloto en un ala.Basicamente es sentirse una ardilla voladora.
 
-![Wingsuit](/amerike-template-eleventy-1ciber-main/src/static/img/wingsuit.jpg)
+![Wingsuit](https://tse3.mm.bing.net/th?id=OIP.QABSL0hX_F21oOeomuCPNwHaEK&pid=Api&P=0&h=180)
 
 [Home]({{ '/' | url }})
