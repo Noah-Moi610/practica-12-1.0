@@ -37,7 +37,7 @@ Hola, soy estudiante de la universidad de Amerike, estoy estudiando la carrera d
 {% endfor %}
 
 
-![Deportes extremos](/amerike-template-eleventy-1ciber-main/src/static/img/extremo.jpg)
+![Deportes extremos](https://tse3.mm.bing.net/th?id=OIP.Bki_F_bR2wTdP-ljwS5I_gHaEH&pid=Api&P=0&h=180)
 
 
 ![Yo](./static/img/Yo.jpg)
